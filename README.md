@@ -9,7 +9,6 @@ Kho lưu trữ mã nguồn và báo cáo kết quả các bài thực hành môn
 * **Họ và tên:** Châu Gia Bảo
 * **Mã số sinh viên:** 2474802010021
 * **Khóa:** K30 (Niên khóa 2024 - 2028)
-* **Lớp sinh hoạt / Lớp học phần:** [Điền mã lớp của bạn, ví dụ: 242_71ITEC...]
 * **Khoa:** Công nghệ Thông tin - Trường Đại học Văn Lang
 * **Giảng viên hướng dẫn:** ThS. Nguyễn Thái Anh
 * **Năm học:** 2026 - 2027
